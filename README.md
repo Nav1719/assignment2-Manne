@@ -59,13 +59,13 @@ The other teams that you think would be good to watch play
 
 Stackoverflow link <https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url>
 
-'''
+```
 
 $thumb_id = get_post_thumbnail_id();
 $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
 $thumb_url = $thumb_url_array[0];
 
-'''
+```
 
 Snippet Source: <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
 
