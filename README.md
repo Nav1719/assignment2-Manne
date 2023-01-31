@@ -24,3 +24,22 @@ The other teams that you think would be good to watch play
 - Pakistan
 
 [AboutMe](AboutMe.md)
+
+---
+|  Name of City  |
+| :------------ | 
+| 1. India    |
+| 2. USA          |
+| 3. Paris        |
+| 4. China          |
+
+### The places to visit as a tourist 
+
+|  **Name of City**  | **Reason to Visit** | **No of days**|
+| :------------ | :------------: | :------------: |
+| 1. India    | I never seen Taj Mahal   | 30 |
+| 2. USA          | To enjoy the Niagara Falls   | 15 |
+| 3. Paris        | To look at the Eiffel Tower   | 180 |
+| 4. China         |  The Great wall of china          | 7 |
+
+
