@@ -33,7 +33,7 @@ The other teams that you think would be good to watch play
 | 3. Paris        |
 | 4. China          |
 
-### The places to visit as a tourist 
+### The places to visit as a tourist
 
 |  **Name of City**  | **Reason to Visit** | **No of days**|
 | :------------ | :------------: | :------------: |
@@ -41,5 +41,15 @@ The other teams that you think would be good to watch play
 | 2. USA          | To enjoy the Niagara Falls   | 15 |
 | 3. Paris        | To look at the Eiffel Tower   | 180 |
 | 4. China         |  The Great wall of china          | 7 |
+
+---
+
+### Funny Quotes
+
+> *“I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."*
+*—Mitch Hedberg*
+
+> *“Gentlemen, you can't fight in here. This is the war room.”*
+*—President Merkin Muffley (Peter Sellers), Dr. Strangelove*
 
 
