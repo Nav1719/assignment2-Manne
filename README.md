@@ -33,7 +33,7 @@ The other teams that you think would be good to watch play
 | 3. Paris        |
 | 4. China          |
 
-### The places to visit as a tourist
+### The places to visit as a tourist:
 
 |  **Name of City**  | **Reason to Visit** | **No of days**|
 | :------------ | :------------: | :------------: |
