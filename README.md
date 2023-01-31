@@ -26,7 +26,7 @@ The other teams that you think would be good to watch play
 [AboutMe](AboutMe.md)
 
 ---
-|  Name of City  |
+|  Name of Country  |
 | :------------ | 
 | 1. India    |
 | 2. USA          |
@@ -35,7 +35,7 @@ The other teams that you think would be good to watch play
 
 ### The places to visit as a tourist:
 
-|  **Name of City**  | **Reason to Visit** | **No of days**|
+|  **Name of Country**  | **Reason to Visit** | **No of days**|
 | :------------ | :------------: | :------------: |
 | 1. India    | I never seen Taj Mahal   | 30 |
 | 2. USA          | To enjoy the Niagara Falls   | 15 |
