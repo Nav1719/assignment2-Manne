@@ -35,7 +35,7 @@ The other teams that you think would be good to watch play
 
 ### The places to visit as a tourist:
 
-|  **Name of Country**  | **Reason to Visit** | **No of days**|
+|  **Name of Country**  | **why to go** | **days to visit**|
 | :------------ | :------------: | :------------: |
 | 1. India    | I never seen Taj Mahal   | 30 |
 | 2. USA          | To enjoy the Niagara Falls   | 15 |
